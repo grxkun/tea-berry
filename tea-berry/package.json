@@ -1,0 +1,26 @@
+{
+  "name": "tea-berry",
+  "version": "1.1.4",
+  "description": "evm cosmos connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grxkun/tea-berry.git"
+  },
+  "keywords": [
+    "evm-cosmos"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/tea-berry/issues"
+  },
+  "homepage": "https://github.com/grxkun/tea-berry#readme",
+  "dependencies": {
+    "@cosmjs/cosmwasm": "^0.25.6",
+    "@ethereumjs/evm": "^3.0.0"
+  }
+}
